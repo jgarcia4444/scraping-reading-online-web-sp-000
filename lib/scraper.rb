@@ -10,5 +10,5 @@ courses = doc.css(
   )
 
   courses.each do |course|
-    puts coursse.text.strip
+    puts course.text.strip
   end
